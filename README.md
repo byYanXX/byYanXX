@@ -1,6 +1,6 @@
 ### Hello, World!
 - Focusing on Java
-- Learning Emacs
+- Enthusiastic about Emacs
 - Code Formatting OCD
 
 ---
